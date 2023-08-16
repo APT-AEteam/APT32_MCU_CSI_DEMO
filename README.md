@@ -1,0 +1,2 @@
+# APT32_MCU_CSI_DEMO
+本仓库是爱普特芯片csi demo的入口，涉及到的芯片有APT32F110X , APT32F103X , APT32F171X , APT32F173
