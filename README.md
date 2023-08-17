@@ -29,7 +29,7 @@ CSI例程库是基于平头哥的IDE软件CDK开发的，用户可以直接在�
 [APT32F173X_latest_release_version](https://github.com/APT-AEteam/APT32F173X/releases/latest) |APT32F173X芯片的csi demo最新发布版本程序包
 
 ## csi例程代码库
-该部分用于显示各芯片csi demo代码仓库。由于该库持续更新中，建议需要稳定代码的用户下载最新release版本。
+该部分用于显示各芯片csi demo代码仓库。由于该库持续更新中，建议用户下载使用最新release版本。
 |csi demo|说明|
 |:----------|:-----------|
 [APT32F110X](https://github.com/APT-AEteam/APT32F110X.git) |APT32F110X芯片的csi demo程序包
