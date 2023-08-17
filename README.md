@@ -10,7 +10,7 @@ CSI例程库是爱普特AE团队基于平头哥的IDE软件CDK，针对爱普特
 │  ├─console                                  //console组件，用来打印调试信息（UART）  
 │  ├─csi                                      //csi组件，声明了所有chip组件实现的csi接口函数  
 │  ├─gui                                      //gui组件，用来进行图形化配置  
-│  └─sdk_103x                                 //SDK组件，是一个组件集合，包括chip组件，demo组件，console组件，csi组件和gui组件  
+│  └─sdk_103x                                 //SDK是一个组件集合，包括chip组件，demo组件，console组件，csi组件和gui组件  
 ├─Demo                                        //cdk工程文件目录  
 └─DOC                                         //文档目录，包含quickstart 和csi代码结构说明等文档，帮助用户快速上手  
 </code>
